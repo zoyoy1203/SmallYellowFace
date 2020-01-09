@@ -144,8 +144,6 @@ def main():
 
     pygame.mixer.music.play(1)
 
-
-
      #背景音乐
 
     #设置背景音乐图标
